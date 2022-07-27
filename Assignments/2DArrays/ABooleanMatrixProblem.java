@@ -5,39 +5,7 @@ import java.util.*; // contains Collections framework
 // you can add inner classes if needed
 class Main {
 	public static void main (String[] args) {
-                      // Your code here
-		// Scanner sc= new Scanner(System.in);
-		// int tc=sc.nextInt();
-		// while(tc>0){
-		// 	int rows=sc.nextInt();
-		// 	int cols=sc.nextInt();
-		// 	int[][] a=new int[rows][cols];
-		// 	for(int i=0;i<rows;i++){
-		// 		for(int j=0;j<cols;j++){
-		// 			a[i][j]=sc.nextInt();
-		// 		}
-		// 	}
-
-		// 	for(int i=0;i<rows;i++){
-		// 		for(int j=0;j<cols;j++){
-		// 			if(a[i][j]==1){
-		// 				for(int k=0;k<cols;k++){
-		// 					a[i][k]=1;
-		// 				}
-		// 				break;
-		// 			}
-		// 		}
-		// 	}
-
-		// 	for(int i=0;i<rows;i++){
-		// 		for(int j=0;j<cols;j++){
-		// 			System.out.print(a[i][j]+" ");
-		// 		}
-		// 		System.out.println();
-		// 	}
-
-		// 	tc--;
-		// }
+               
 		Scanner sc = new Scanner(System.in);
         int tc = Integer.parseInt(sc.nextLine());
         for (int t = 0; t < tc; t++) {
