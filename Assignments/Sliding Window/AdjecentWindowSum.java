@@ -20,6 +20,7 @@ class Main {
         }
         return false;
     }
+    //line 13 me n-k krke line 14 me arr[j+k] krdu to chalega
     public static void main (String[] args) {
         Scanner sc= new Scanner(System.in);
         int n=sc.nextInt();
