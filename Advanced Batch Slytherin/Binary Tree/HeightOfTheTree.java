@@ -3,6 +3,15 @@ import java.util.*; // contains Collections framework
 
 // don't change the name of this class
 // you can add inner classes if needed
+
+
+//this is a binary tree. but there are more than 2 child of a node 
+//that's why the code is written for general tree
+//which have any no. of child ..whatever the node have the child no matter
+//so guy's you can use it in general tree code also
+
+
+// happy Coding!!
 class Main {
     private static class Node{
         int data;
