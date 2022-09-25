@@ -40,12 +40,12 @@ print the required sum.
 Example
 Input:
 4
-Tyrion 20000
-Jon 15000
-Arya 30000
-Ramsay 40000
+Bharat 1400000
+Sachin 100000000
+Anand 30000000
+monty 10000
 
 Output:
-105000
+131410000
 
 */
